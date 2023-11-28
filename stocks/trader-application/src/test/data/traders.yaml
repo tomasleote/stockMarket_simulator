@@ -1,0 +1,13 @@
+traders:
+  bot1:
+    id: "mockId"
+    name: "Mock Trader"
+    funds: 1000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 3
+        AMD: 23
+        AAPL: 15
+        ADBE: 1
+        FB: 3
+    clientId: 0

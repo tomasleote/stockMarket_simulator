@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/command/command.iml" filepath="$PROJECT_DIR$/command/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-queue/message-queue.iml" filepath="$PROJECT_DIR$/message-queue/message-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networking/networking.iml" filepath="$PROJECT_DIR$/networking/networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-application/stock-application.iml" filepath="$PROJECT_DIR$/stock-application/stock-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-market-ui/stock-market-ui.iml" filepath="$PROJECT_DIR$/stock-market-ui/stock-market-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stocks.iml" filepath="$PROJECT_DIR$/stocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader-application/trader-application.iml" filepath="$PROJECT_DIR$/trader-application/trader-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>

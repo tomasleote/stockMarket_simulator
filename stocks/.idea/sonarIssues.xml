@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../2022/2022_Team_069/2022_Team_069/stocks/stock-App/src/main/java/nl/rug/aoop/stockApp/TraderApplication/commands/TraderToUpdateCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/command/src/main/java/nl/rug/aoop/command/Command.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/command/src/main/java/nl/rug/aoop/command/CommandHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/traders.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/main/java/nl/rug/aoop/messagequeue/Message.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/main/java/nl/rug/aoop/messagequeue/QueueMessageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/main/java/nl/rug/aoop/messagequeue/commands/MqPutCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/main/java/nl/rug/aoop/messagequeue/factory/QueueCommandHandlerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/main/java/nl/rug/aoop/messagequeue/users/NetworkProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/message-queue/src/test/java/nl/rug/aoop/messagequeue/TestQueueMessageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/main/java/nl/rug/aoop/networking/Communicator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/main/java/nl/rug/aoop/networking/MessageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/main/java/nl/rug/aoop/networking/client/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/main/java/nl/rug/aoop/networking/server/ClientHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/main/java/nl/rug/aoop/networking/server/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/test/java/nl/rug/aoop/networking/TestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/networking/src/test/java/nl/rug/aoop/networking/TestClientHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/commands/BuyOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/commands/SellOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/commands/StockCommandHandlerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/commands/UpdateStocksCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/commands/UpdateTraderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/Portfolio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/Stock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/StockExchange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/StockRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/Trader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/model/TraderRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/BuyOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/LimitOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/LimitOrderHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/MarketOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/Order.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/OrderHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/OrdersHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/ResolvedOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/orders/SellOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/MarketUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/StockApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/StockMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/StockManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/main/java/nl/rug/aoop/stocks/stock/application/TraderUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/commands/TestBuyOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/commands/TestSellOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/model/TestStockModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/model/TestStockRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/model/TestTraderRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/model/testTrader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/orders/TestBuyOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/orders/TestLimitOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/orders/TestLimitOrderHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/orders/TestResolvedOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-application/src/test/java/nl/rug/aoop/stocks/orders/TestSellOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stock-market-ui/src/main/java/nl/rug/aoop/simpleview/TerminalFrame.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/RandomTradeStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/TradeStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/TraderBot.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/TraderMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/TraderManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/commands/StocksUpdateCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/commands/TraderCommandHandlerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/trader-application/src/main/java/nl/rug/aoop/trades/commands/TraderUpdateCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
