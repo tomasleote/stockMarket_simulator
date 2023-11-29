@@ -96,10 +96,10 @@ public class TraderBot implements Runnable {
         running = true;
         while(running) {
             try {
-                Thread.sleep(random.nextInt(1000, 2000));
+                Thread.sleep(random.nextInt(250, 1500));
                 requestUpdateStocks();
                 requestUpdateTrader();
-                Thread.sleep(1500);
+                Thread.sleep(250);
                 sendOrder();
             } catch (InterruptedException e) {
                 e.printStackTrace();

@@ -3,8 +3,6 @@ o
 ?networking/src/test/java/nl/rug/aoop/networking/TestServer.java,b\4\b445eaa086a8a0451db69ba95bfee852e55a88f0
 É
 Smessage-queue/src/test/java/nl/rug/aoop/messagequeue/users/TestNetworkProducer.java,7\b\7b43240e360d697768723a6c5a0a4e93cd4c0c9c
-A
-data/traders.yaml,8\1\818af5799cf5468b2df8848a208dc9ad7f143a24
 Å
 Qstock-market-ui/src/main/java/nl/rug/aoop/simpleview/tables/TraderTableModel.java,b\6\b6900d22f45fa394a6940d9405b51333872b04db
 Ñ
@@ -35,12 +33,8 @@ w
 Gstock-market-ui/src/main/java/nl/rug/aoop/simpleview/TerminalFrame.java,f\4\f4e1d12d2daedbd6516b108ea48a552adedad10b
 
 Ostock-market-ui/src/main/java/nl/rug/aoop/initialization/SimpleViewFactory.java,1\2\122ed740f67a2e62a7ff46645c11b552010e4d97
-;
-3_stonks.md,6\2\6232e8a52e894337cce804d454e9ad7e0c6bb9f7
 ä
 Zstock-application/src/test/java/nl/rug/aoop/stocks/stock/application/TestStockManager.java,0\8\08d9d7ef9e866b580c6065f0a64900ecb02fdc21
-@
-data/stocks.yaml,5\5\553e4e4b42ef48f786d4a94e66a73223a9dfa11a
 x
 Hstock-application/src/test/java/nl/rug/aoop/stocks/model/testTrader.java,8\c\8cc120538168fa7ab4923f6b8b5156143c9812e9
 Ä

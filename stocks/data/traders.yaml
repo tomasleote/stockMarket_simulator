@@ -111,3 +111,136 @@ traders:
       ownedShares:
         AOOP: 60000
     clientId: 10
+  bot10:
+    id: "bot10"
+    name: "Sally Quicktrade"
+    funds: 50000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 12
+        AAPL: 40
+        MSFT: 20
+        TSLA: 7
+        ADBE: 3
+    clientId: 11
+  bot11:
+    id: "bot11"
+    name: "Max Profit"
+    funds: 750000
+    stockPortfolio:
+      ownedShares:
+        AMD: 150
+        AAPL: 100
+        INTC: 200
+        TSLA: 50
+        FB: 80
+    clientId: 12
+  bot12:
+    id: "bot12"
+    name: "Ivy Algorithm"
+    funds: 300000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 25
+        AMD: 60
+        AAPL: 45
+        MSFT: 70
+        FB: 20
+    clientId: 13
+  bot13:
+    id: "bot13"
+    name: "Charlie Daytrade"
+    funds: 85000
+    stockPortfolio:
+      ownedShares:
+        INTC: 40
+        MSFT: 55
+        TSLA: 10
+        ADBE: 15
+        FB: 25
+    clientId: 14
+  bot14:
+    id: "bot14"
+    name: "Franklin Buyhold"
+    funds: 120500
+    stockPortfolio:
+      ownedShares:
+        NVDA: 30
+        AMD: 50
+        AAPL: 75
+        TSLA: 20
+        ADBE: 10
+    clientId: 15
+  bot15:
+    id: "bot15"
+    name: "Emma Speculate"
+    funds: 5000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 5
+        AMD: 10
+        AAPL: 8
+        INTC: 15
+        TSLA: 3
+    clientId: 16
+  bot16:
+    id: "bot16"
+    name: "Lucas Swing"
+    funds: 150000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 40
+        AMD: 60
+        AAPL: 30
+        MSFT: 45
+        TSLA: 25
+    clientId: 17
+  bot17:
+    id: "bot17"
+    name: "Olivia Margin"
+    funds: 200000
+    stockPortfolio:
+      ownedShares:
+        INTC: 55
+        MSFT: 80
+        TSLA: 35
+        ADBE: 20
+        FB: 40
+    clientId: 18
+  bot18:
+    id: "bot18"
+    name: "Ethan Scalper"
+    funds: 65000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 20
+        AMD: 25
+        AAPL: 15
+        INTC: 30
+        MSFT: 20
+    clientId: 19
+  bot19:
+    id: "bot19"
+    name: "Isabella Value"
+    funds: 90000
+    stockPortfolio:
+      ownedShares:
+        TSLA: 15
+        ADBE: 12
+        FB: 18
+    clientId: 20
+  bot20:
+    id: "bot20"
+    name: "Noah Longterm"
+    funds: 1000000
+    stockPortfolio:
+      ownedShares:
+        NVDA: 100
+        AMD: 150
+        AAPL: 200
+        INTC: 250
+        MSFT: 300
+        TSLA: 350
+        ADBE: 400
+        FB: 450
+    clientId: 21
